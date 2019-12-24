@@ -5,10 +5,6 @@ import android.os.AsyncTask;
 import android.util.Log;
 import android.view.accessibility.AccessibilityEvent;
 
-import java.io.DataOutputStream;
-import java.io.OutputStream;
-import java.net.HttpURLConnection;
-import java.net.URL;
 import java.util.Calendar;
 import java.text.SimpleDateFormat;
 import java.text.DateFormat;
